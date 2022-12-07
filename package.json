@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/nickymarino/node-text-api#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "to-zalgo": "^1.0.1"
   }
 }
